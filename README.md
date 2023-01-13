@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Fabio
+- 👀 I’m interested in Zig, graphics programming, games, and pixel art
+- 📫 You can reach me on Twitter @captainhorst or on Discord captainhorst#9617
